@@ -1,4 +1,4 @@
-# Assignment - Language Learning Game (MERN Stack)
+# Language Learning Game (MERN Stack)
 
 Welcome to the Language Learning Game assignment! This project is built using the MERN (MongoDB, Express, React, Node.js) stack, and it is organized into two main folders: `client` and `server`. Each folder contains relevant code and components for the frontend and backend, respectively.
 
